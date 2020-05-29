@@ -1,0 +1,10 @@
+F:\Visual studio\GamePro\GamePro\bin\Debug\GamePro.exe.config
+F:\Visual studio\GamePro\GamePro\bin\Debug\GamePro.exe
+F:\Visual studio\GamePro\GamePro\bin\Debug\GamePro.pdb
+F:\Visual studio\GamePro\GamePro\obj\Debug\GamePro.Home.resources
+F:\Visual studio\GamePro\GamePro\obj\Debug\GamePro.Properties.Resources.resources
+F:\Visual studio\GamePro\GamePro\obj\Debug\GamePro.csproj.GenerateResource.Cache
+F:\Visual studio\GamePro\GamePro\obj\Debug\GamePro.exe
+F:\Visual studio\GamePro\GamePro\obj\Debug\GamePro.pdb
+F:\Visual studio\GamePro\GamePro\obj\Debug\GamePro.csprojAssemblyReference.cache
+F:\Visual studio\GamePro\GamePro\obj\Debug\GamePro.csproj.CoreCompileInputs.cache
